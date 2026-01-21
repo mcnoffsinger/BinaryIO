@@ -225,7 +225,8 @@ public class ByteDetective {
         //       - Average (sum / count as a double)
 
         
-        System.out.println("TODO: Implement analyzeFile()");
+        //System.out.println("TODO: Implement analyzeFile()");
+        //almost forgot to comment this out
     }
     
     /**
